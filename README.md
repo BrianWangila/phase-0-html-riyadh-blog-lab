@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Create an HTML structure for an existing mockup
+- Create an HTML structure for an existing mockup.
 
 ## Introduction
 
